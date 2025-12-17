@@ -1,0 +1,65 @@
+MAIN MENU:
+1.Add pipe
+2.Add station
+3.View objects 
+4.Edit pipe
+5.Edit CS
+6.Save to file
+7.Load from file
+0.Exit
+Type name of pipe:Type length of pipe:Type diameter of pipe:MAIN MENU:
+1.Add pipe
+2.Add station
+3.View objects 
+4.Edit pipe
+5.Edit CS
+6.Save to file
+7.Load from file
+0.Exit
+Type name of station:Type amount of workshops in station:Type amount of workshops in work:Type class of station:MAIN MENU:
+1.Add pipe
+2.Add station
+3.View objects 
+4.Edit pipe
+5.Edit CS
+6.Save to file
+7.Load from file
+0.Exit
+Type name of station:Type amount of workshops in station:Type amount of workshops in work:Type class of station:MAIN MENU:
+1.Add pipe
+2.Add station
+3.View objects 
+4.Edit pipe
+5.Edit CS
+6.Save to file
+7.Load from file
+0.Exit
+Type name of pipe:Type length of pipe:Type diameter of pipe:MAIN MENU:
+1.Add pipe
+2.Add station
+3.View objects 
+4.Edit pipe
+5.Edit CS
+6.Save to file
+7.Load from file
+0.Exit
+PIPE PROPERTIES
+Name: LA
+Length: 200
+Diametr: 12
+Fixing: 0
+
+CS PROPERTIES
+Name: LL
+Workshop amount: 213
+Inwork: 213
+Class:A
+MAIN MENU:
+1.Add pipe
+2.Add station
+3.View objects 
+4.Edit pipe
+5.Edit CS
+6.Save to file
+7.Load from file
+0.Exit
