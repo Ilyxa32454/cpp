@@ -1,4 +1,3 @@
-
 #include <iostream>  // Для ввода-вывода 
 #include <fstream>   // Для работы с файлами 
 #include <string>    // Для работы со строками 

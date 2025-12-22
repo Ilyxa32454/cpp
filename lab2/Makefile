@@ -6,7 +6,7 @@ CXXFLAGS = -std=c++20 -Wall -Wextra -O2
 TARGET = lab2
 
 # Все объектные файлы
-OBJS = lab1.o Utils.o Pipe.o station.o manager.o
+OBJS = lab1.o utils.o pipe.o station.o manager.o
 
 # Цель по умолчанию
 all: $(TARGET)

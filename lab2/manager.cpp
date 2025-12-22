@@ -1,7 +1,7 @@
 #include "manager.h"
 #include <iostream>
 #include <chrono>
-#include "Utils.h"
+#include "utils.h"
 #include <unordered_set>
 using namespace std;
 
@@ -78,7 +78,7 @@ void Manager::add_pipe() {
 
 void Manager::edit_pipe(int id) {
     if (pipes.contains(id)){
-        pipes[id].edit_pipe(); // at(id) указывает на ключ https://www.geeksforgeeks.org/cpp/unordered_map-at-cpp/
+        pipes[id].edit_pipe(); // at(id) пїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅпїЅ пїЅпїЅ пїЅпїЅпїЅпїЅ https://www.geeksforgeeks.org/cpp/unordered_map-at-cpp/
         cout << endl << "You successfully changed the fixing value of Pipe with ID " + to_string(id) + "to " + to_string(pipes[id].get_is_fixing()) << endl;
     }
     else {
