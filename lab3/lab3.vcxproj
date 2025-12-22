@@ -19,17 +19,17 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\lab3_щдв\main.cpp" />
-    <ClCompile Include="..\lab3_щдв\network.cpp" />
-    <ClCompile Include="..\lab3_щдв\pipe.cpp" />
-    <ClCompile Include="..\lab3_щдв\station.cpp" />
-    <ClCompile Include="..\lab3_щдв\utils.cpp" />
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="network.cpp" />
+    <ClCompile Include="pipe.cpp" />
+    <ClCompile Include="station.cpp" />
+    <ClCompile Include="utils.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\lab3_щдв\network.h" />
-    <ClInclude Include="..\lab3_щдв\pipe.h" />
-    <ClInclude Include="..\lab3_щдв\station.h" />
-    <ClInclude Include="..\lab3_щдв\utils.h" />
+    <ClInclude Include="network.h" />
+    <ClInclude Include="pipe.h" />
+    <ClInclude Include="station.h" />
+    <ClInclude Include="utils.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>

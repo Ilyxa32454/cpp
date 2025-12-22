@@ -15,33 +15,33 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\lab3_щдв\main.cpp">
+    <ClCompile Include="main.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\lab3_щдв\network.cpp">
+    <ClCompile Include="network.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\lab3_щдв\pipe.cpp">
+    <ClCompile Include="pipe.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\lab3_щдв\station.cpp">
+    <ClCompile Include="station.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="..\lab3_щдв\utils.cpp">
+    <ClCompile Include="utils.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\lab3_щдв\network.h">
+    <ClInclude Include="network.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\lab3_щдв\pipe.h">
+    <ClInclude Include="pipe.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\lab3_щдв\station.h">
+    <ClInclude Include="station.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
-    <ClInclude Include="..\lab3_щдв\utils.h">
+    <ClInclude Include="utils.h">
       <Filter>Файлы заголовков</Filter>
     </ClInclude>
   </ItemGroup>
