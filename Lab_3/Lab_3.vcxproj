@@ -19,23 +19,22 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="main.cpp" />
-    <ClCompile Include="network.cpp" />
-    <ClCompile Include="pipe.cpp" />
-    <ClCompile Include="station.cpp" />
-    <ClCompile Include="utils.cpp" />
+    <ClCompile Include="CS.cpp" />
+    <ClCompile Include="Lab_2.cpp" />
+    <ClCompile Include="Network.cpp" />
+    <ClCompile Include="Pipe.cpp" />
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="network.h" />
-    <ClInclude Include="pipe.h" />
-    <ClInclude Include="station.h" />
-    <ClInclude Include="utils.h" />
+    <ClInclude Include="CompressionStation.h" />
+    <ClInclude Include="Network.h" />
+    <ClInclude Include="Pipe.h" />
+    <ClInclude Include="Utils.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
     <Keyword>Win32Proj</Keyword>
-    <ProjectGuid>{1776b256-e099-4dd1-b7c1-e2936fd2161f}</ProjectGuid>
-    <RootNamespace>lab3</RootNamespace>
+    <ProjectGuid>{58de8075-3ba9-4067-a030-aa119e9a4f87}</ProjectGuid>
+    <RootNamespace>Lab3</RootNamespace>
     <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
